@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shop>
+<phone>
+    <name>Samsung Galaxy S8</name>
+    <price>$925</price>
+	<model>SM-G950x</model>
+	<dimension>148.9 mm × 68.1 mm × 8.0 mm (5.86 in × 2.68 in × 0.31 in)</dimension>
+    <operating>Original: Android 7.0 "Nougat"</operating>
+    <cpu>
+		Exynos: Octa-core (4×2.5 GHz M2 Mongoose  4×1.7 GHz) Cortex-A53 (GTS)
+		Snapdragon: Octa-core (4×2.45 GHz Kryo  4×1.9 GHz Kryo)
+	</cpu>
+	<battery>3000 mAh</battery>
+</phone>
+<phone>
+    <name>Samsung Galaxy S8+</name>
+    <price>$1000</price>
+	<model>SM-G955x</model>
+	<dimension>159.5 mm × 73.4 mm × 8.1 mm (6.28 in × 2.89 in × 0.32 in)</dimension>
+    <operating>Original: Android 7.0 "Nougat"</operating>
+    <cpu>
+		Exynos: Octa-core (4×2.5 GHz M2 Mongoose  4×1.7 GHz) Cortex-A53 (GTS)
+		Snapdragon: Octa-core (4×2.45 GHz Kryo  4×1.9 GHz Kryo)
+	</cpu>
+	<battery>3500 mAh</battery>
+</phone>
+<phone>
+    <name>iPhone 8</name>
+    <price>$950</price>
+	<model>A1863 (with Qualcomm modem)</model>
+	<dimension>138.4 mm × 67.3 mm × 7.3 mm (5.45 in × 2.65 in × 0.29 in)</dimension> 
+    <operating>Original: iOS 11.0</operating>
+    <cpu>2.39 GHz hexa-core 64-bit</cpu>
+	<battery>3.82 V 6.96 W·h (1821 mA·h) Li-ion</battery>
+</phone>
+<phone>
+    <name>iPhone 8 Plus</name>
+    <price>$1100</price>
+	<model>A1864 (with Qualcomm modem)</model>
+	<dimension>158.4 mm × 78.1 mm × 7.5 mm (6.24 in × 3.07 in × 0.30 in)</dimension>
+    <operating>Original: iOS 11.0</operating>
+    <cpu>2.39 GHz hexa-core 64-bit</cpu>
+	<battery>3.82 V 10.28 W·h (2675 mA·h) Li-ion</battery>
+</phone>
+<phone>
+    <name>iPhone X</name>
+    <price>$1500</price>
+	<model>A1865 (with Qualcomm modem)</model>
+	<dimension>143.6 mm × 70.9 mm × 7.7 mm (5.65 in × 2.79 in × 0.30 in)</dimension>
+    <operating>Original: iOS 11.0.1</operating>
+    <cpu>2.39 GHz hexa-core 64-bit</cpu>
+	<battery>3.81 V 10.35 W·h (2716 mA·h) Li-ion</battery>
+</phone>
+<phone>
+    <name>Meizu PRO 6</name>
+    <price>$400</price>
+	<model>Meizu М570Н</model>
+	<dimension>147.7 mm × 70.8 mm × 7.25 mm (5.81 in × 2.79 in × 0.285 in)</dimension>
+    <operating>Flyme OS, based on Android</operating>
+    <cpu>10-core (2x2.5GHz Cortex-A72, 4x2.0GHz Cortex-A53, 4x1.4GHz Cortex-A53)</cpu>
+	<battery>2560 mAh Li-Ion rechargeable battery, not replaceable</battery>
+</phone>
+</electronic_shop>
