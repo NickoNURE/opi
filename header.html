@@ -3,14 +3,28 @@
     <header>
     <div class="title">
        <span>MobileShop</span>
-        </div>
-        
+    </div> 
     </header>
-    
-    
-    
-    
-
-    
+    <XML id="muxml" src="shop.xml"></XML>
+    <Table id="my" border="2" width="80%" datasrc="#myxml"> 
+    <Thead style="background-color:aqua">
+        <TH>Phone</TH>
+        <TH>Price</TH>
+        <TH>Model</TH>
+        <TH>Dimension</TH>
+        <TH>Operating</TH>
+        <TH>CPU</TH>
+        <TH>Battery</TH>
+    </Thead>
+    <TR>
+        <TD><SPAN DATAFLD="name"/></TD>
+        <TD><SPAN DATAFLD="price"/></TD>
+        <TD><SPAN DATAFLD="model"/></TD>
+        <TD><SPAN DATAFLD="dimension"/></TD>
+        <TD><SPAN DATAFLD="operating"/></TD>
+        <TD><SPAN DATAFLD="cpu"/></TD>
+        <TD><SPAN DATAFLD="Battary"/></TD>
+    </TR>
+    </TABLE>
     </body>
 </html>
